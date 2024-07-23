@@ -1,5 +1,5 @@
 # UR3 Robot Playing Chess
-The results from this project can be seen here: 
+The results and a full explanation from this project can be seen here: 
 https://www.youtube.com/watch?v=HJsMiX6PEWk&t=0s&ab_channel=EitanCoronel
 
 For any question feel free to reach me on linkedin: https://www.linkedin.com/in/eitan-coronel/
