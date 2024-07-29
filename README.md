@@ -59,6 +59,8 @@ This message will be processed by the "coords_handler" function, which will move
 After that you configured all this and made sure everything works you can run the main function.
 Enjoy !
 
+#Here is an image of our system
+
 ![image](https://github.com/user-attachments/assets/a5b7d78f-d2bd-494e-9ada-6b00126b7cac)
 
 ## Author
