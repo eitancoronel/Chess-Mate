@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a5b7d78f-d2bd-494e-9ada-6b00126b7cac)
 # UR3 Robot Playing Chess
 The results and a full explanation from this project can be seen here: 
 https://www.youtube.com/watch?v=HJsMiX6PEWk&t=0s&ab_channel=EitanCoronel
@@ -60,6 +59,7 @@ This message will be processed by the "coords_handler" function, which will move
 After that you configured all this and made sure everything works you can run the main function.
 Enjoy !
 
+![image](https://github.com/user-attachments/assets/a5b7d78f-d2bd-494e-9ada-6b00126b7cac)
 
 ## Author
 Eitan Coronel
