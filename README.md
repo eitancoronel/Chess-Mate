@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2eee6c44-8218-4c9a-b81a-7285948d0bd4)
+![image](https://github.com/user-attachments/assets/a5b7d78f-d2bd-494e-9ada-6b00126b7cac)
 # UR3 Robot Playing Chess
 The results and a full explanation from this project can be seen here: 
 https://www.youtube.com/watch?v=HJsMiX6PEWk&t=0s&ab_channel=EitanCoronel
